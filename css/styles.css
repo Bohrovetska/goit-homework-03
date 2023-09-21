@@ -1,0 +1,198 @@
+
+
+body {font-family:'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+background-color: #FFFFFF;
+color: #434455;}
+/* ul {
+    list-style: none;
+
+}*/
+/* a {
+    text-decoration: none;
+
+}*/
+ul {
+list-style: none;
+}
+a {text-decoration: none;}
+
+
+
+.header-logo {
+    color: #4D5AE5;
+    font-family: "Raleway", sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;}
+
+.header-logo-navyblue{
+    color: #2E2F42;}
+
+.header-menu {
+
+}
+.hero-ord-bth:hover,
+.hero-ord-bth:focus {background-color:#404bbf;
+    color: #FFFFFF;}
+
+
+
+
+.header-menu-link:hover,
+.header-menu-link:focus {color: #404bbf; }
+.header-cont {font-style: normal;}
+
+.header-cont-iteam-link:hover,
+.header-cont-iteam-link:focus {color: #404bbf;}
+
+.header-menu-link {
+    color: #2E2F42;;
+    
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;}
+
+    
+    
+.header-cont-iteam-link {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;}
+
+.hero-title{ color: #FFFFFF;
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        font-family: "Roboto", sans-serif;
+        cursor: pointer;
+        }
+
+.hero { 
+background: #2E2F42;}
+
+.hero-ord-bth { background: #4D5AE5;
+    color: #FFFFFF;
+    font-family: "Roboto",
+        sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        cursor: pointer;
+    }
+
+    .features-subtitle{
+        color: #2E2F42;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: left;}
+    
+   
+     
+        
+.feature-iteam-text {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;
+   }
+.team {background-color: #F4F4FD}
+   .team-iteam {background-color:#FFFFFF }
+    
+
+   .team-title {
+    color: #2E2F42; ;
+        font-family: Roboto;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        text-transform: capitalize;
+        
+   }
+    .team-subtitle  {
+        color: #2E2F42;
+            font-size: 20px;
+            font-weight: 500;
+            line-height: 1.2;
+            letter-spacing: 0.02em;
+            
+    }
+
+.team-iteam-text {
+
+color:#434455;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+.made-title  { color: #2E2F42;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    text-align: center
+    }
+
+.made-subtitle { color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: left;
+font-style: normal;}
+
+.made-iteam-text {color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-style: normal;
+    }
+
+    .footer { background-color: #2E2F42;
+    font-family: "Raleway", sans-serif;
+    line-height: 1.17;
+    text-transform: uppercase;}
+        
+    .footer-logo { color:#4D5AE5;
+        
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+       }
+    .footer-logo-cloud {color:#F4F4FD;
+        
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        }
+    .footer-text-descr { color: #F4F4FD;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        font-style: normal;
+     
+        }
