@@ -68,18 +68,21 @@ margin-right: 76px;}
     color: #2E2F42;}
 
 .header-menu { display: flex;
-   gap: 24px;}
+   gap: 24px;
+padding-top: 24px;
+padding-bottom: 24px;}
 
-.header-menu-iteam {gap: 40px;
-    padding-top: 24px;
-    padding-bottom: 24px;}
+
+    
     
 
-.header-cont-list {display: flex;
+.header-cont-list {
+display: flex;
 gap: 40px; 
+padding-top: 24px;
+padding-bottom: 24px;  }
 
-    padding-top: 24px;
-    padding-bottom: 24px;  }
+
 .hero-ord-bth:hover,
 .hero-ord-bth:focus {background-color:#404bbf;
     color: #FFFFFF;}
