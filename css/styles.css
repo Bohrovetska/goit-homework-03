@@ -247,7 +247,8 @@ margin-top: 72px;
 
 
 
-.made {padding-top: 120px;}
+.made {padding-top: 120px;
+margin-bottom: 120px;}
 
 .made-list {display: flex;
 flex-wrap: wrap;
