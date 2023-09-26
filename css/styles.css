@@ -42,11 +42,13 @@ img {display: block;}
 
     width: 1158px;
      margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
     
 }
 .header-container {display: flex;
     gap: 332px;
-   
+
 }
 
 .header {
