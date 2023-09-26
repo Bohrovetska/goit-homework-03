@@ -46,12 +46,12 @@ img {display: block;}
 }
 .header-container {display: flex;
     gap: 332px;
+   
 }
 
 .header {
     border-bottom: 1px solid #e7e9fc;
-padding-left: 15px;
-    padding-right: 15px;
+
     padding-top: 24px;
     padding-bottom: 24px;
     }
