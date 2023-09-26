@@ -77,8 +77,7 @@ margin-right: 76px;}
 .header-cont-list {
 display: flex;
 gap: 40px; 
-padding-top: 24px;
-padding-bottom: 24px;  }
+  }
 
 
 .hero-ord-bth:hover,
